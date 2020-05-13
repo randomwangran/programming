@@ -6,6 +6,8 @@ ref: https://medium.com/@jingchenjc2019/a-brief-survey-of-programming-paradigms-
 * functional programming
 * logic programming
 
+ref: https://en.wikibooks.org/wiki/Computer_Programming/Hello_world
+
 * 1	4DOS batch
 * 2	Ingres 4GL
 * 3	ABAP/4 - SAP AG
