@@ -190,14 +190,22 @@ ref: https://en.wikibooks.org/wiki/Computer_Programming/Hello_world
 * 122	Linotte
 * 123	Lisaac
 * 124	Lisp
-124.1	Common Lisp
-124.2	Scheme
-124.3	Clojure
-124.4	Emacs Lisp
-124.5	AutoLisp
-124.6	XLISP
-124.7	Arc
-124.8	Pils
+** 124.1	Common Lisp
+*** [[https://github.com/nakkaya/ferret][ferret]]
+    :PROPERTIES:
+    :ID:       f5c9aa2c-58ee-4193-bf92-3688ed26f3ba
+    :END:
+  - real time embed system
+  - pi
+  - org-mode
+  - literate programming
+*** 124.2	Scheme
+*** 124.3	Clojure
+*** 124.4	Emacs Lisp
+*** 124.5	AutoLisp
+*** 124.6	XLISP
+*** 124.7	Arc
+*** 124.8	Pils
 * 125	Logo
 * 126	LPC
 * 127	Lua
