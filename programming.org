@@ -1,0 +1,7 @@
+ref: https://medium.com/@jingchenjc2019/a-brief-survey-of-programming-paradigms-207543a84e2b
+
+* structured programming
+* procedural programming
+* object-oriented programming
+* functional programming
+* logic programming
