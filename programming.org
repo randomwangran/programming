@@ -5,3 +5,450 @@ ref: https://medium.com/@jingchenjc2019/a-brief-survey-of-programming-paradigms-
 * object-oriented programming
 * functional programming
 * logic programming
+
+* 1	4DOS batch
+* 2	Ingres 4GL
+* 3	ABAP/4 - SAP AG
+* 4	ABAP Objects (NetWeaver 7)
+* 5	ABC
+* 6	ActionScript
+6.1	ActionScript 1.0 and 2.0
+6.2	ActionScript 3
+* 7	Ada
+* 8	ALGOL 68
+* 9	AmigaE
+* 10	AMX NetLinx
+* 11	ANT
+* 12	APL
+* 13	AppleScript
+* 14	ASP
+14.1	ASP.NET
+* 15	Assembly language
+15.1	Accumulator-only architecture: DEC PDP-8, PAL-III assembler
+15.2	First successful uP/OS combinations: Intel 8080/Zilog Z80, CP/M, RMAC assembler
+15.3	Popular home computer: ZX Spectrum, Zilog Z80, HiSoft GENS assembler
+15.4	Accumulator + index register machine: MOS Technology 6502, CBM KERNEL, MOS assembler syntax
+15.5	Accumulator/Index microcoded machine: Data General Nova, RDOS
+15.6	Expanded accumulator machine: Intel x86, DOS, TASM
+15.7	ASSEMBLER x86 (DOS, MASM)
+15.8	ASSEMBLER x86 (DOS, FASM)
+15.9	Expanded accumulator machine: Intel x86, Microsoft Windows, FASM
+15.10	Expanded accumulator machine: Intel x86, Linux, FASM
+15.11	Expanded accumulator machine: Intel x86, Linux, GAS
+15.12	Expanded accumulator machine: Intel x86, Linux, NASM
+15.13	Expanded accumulator machine: Intel x86, Linux, GLibC, NASM
+15.14	General-purpose fictional computer: MIX, MIXAL
+15.15	General-purpose fictional computer: MMIX, MMIXAL
+15.16	General-purpose-register CISC: DEC PDP-11
+15.16.1	RT-11, MACRO-11
+15.16.2	Variant for Elektronika BK using BIOS function, MICRO-11
+15.17	CISC Amiga (Workbench 2.0): Motorola 68000
+15.18	CISC Atari: Motorola 68000
+15.19	CISC Sharp X68000 (Human68K): Motorola 68000
+15.20	CISC on advanced multiprocessing OS: DEC VAX, VMS, MACRO-32
+15.21	Mainframe: IBM z/Architecture series using BAL
+15.22	RISC processor: ARM, RISC OS, BBC BASIC's in-line assembler
+15.23	RISC processor: MIPS architecture
+15.24	RISC processor: PowerPC, Mac OS X, GAS
+15.25	Sigma 6/7/8/9 METASYMBOL
+* 16	AutoHotkey
+* 17	AutoIt
+* 18	Avenue (scripting language for ArcView GIS)
+* 19	AWK
+* 20	B
+* 21	Baan Tools
+21.1	3GL Format
+21.2	4GL Format
+*22	Bash or sh
+*23	BASIC
+23.1	General
+23.2	BlitzBasic
+23.3	DarkBASIC
+23.4	FreeBasic
+23.5	CoolBasic
+23.6	GW-BASIC
+23.7	Liberty BASIC
+23.8	Microsoft Small Basic
+23.9	PBASIC
+23.10	StarOffice/OpenOffice Basic
+23.11	PureBasic
+23.12	TI-BASIC
+23.13	Visual Basic
+23.14	Visual Basic .NET
+23.15	PICK/BASIC, DATA/BASIC, MV/BASIC
+* 24	Batch (MS-DOS)
+* 25	bc
+* 26	BCPL
+* 27	BITGGAL AgileDog
+* 28	BITGGAL Jihwaja
+* 29	BLISS
+* 30	BlitzMax
+* 31	boo
+* 32	Burning Sand 2
+* 33	C
+33.1	ANSI C
+* 34	Caché Server Pages (CSP)
+* 35	Calprola
+* 36	C/AL - MBS Navision
+* 37	Casio FX-9750
+* 38	CCL
+* 39	Ch
+* 40	Chuck
+* 41	Chrome
+* 42	CIL
+* 43	CintieFramework (VisualBasic.NET)
+* 44	Clean
+* 45	Clipper
+* 46	CLIST
+* 47	Clojure
+* 48	CLU
+* 49	COBOL
+* 50	CoffeeScript
+* 51	ColdFusion (CFML)
+* 52	COMAL
+* 53	Common Lisp
+* 54	Cube
+* 55	C++
+55.1	C++/CLI
+55.2	C++, Managed (.NET)
+* 56	C#
+* 57	D
+* 58	Dart
+* 59	DC, an arbitrary precision calculator
+* 60	DCL batch
+* 61	D++
+* 62	Delphi
+* 63	DIV
+* 64	DOLL
+* 65	Dream Maker
+* 66	Dylan
+* 67	EAScripting
+* 68	Ed and Ex (Ed extended)
+* 69	Eiffel
+* 70	Elixir
+* 71	Elm
+* 72	Erlang
+* 73	Euphoria
+* 74	Factor
+* 75	Falcon
+* 76	Ferite
+* 77	filePro
+* 78	Fjölnir
+* 79	FOCAL
+* 80	Focus
+* 81	Forte TOOL
+* 82	Forth
+* 83	Fortran
+83.1	Fortran 77
+83.2	Fortran 90/95
+* 84	F#
+* 85	Fril
+* 86	Frink
+* 87	Gambas
+* 88	GEMBase 4GL
+* 89	GeneXus
+* 90	GML (Game Maker Language)
+* 91	Go (from Google)
+* 92	GraalScript
+92.1	GraalScript 1
+92.2	GraalScript 2
+* 93	Groovy
+* 94	Harbour
+* 95	Haskell
+* 96	Haxe
+* 97	Heron
+* 98	HP 33s
+* 99	HP-41 & HP-42S
+* 100	HyperTalk (Apple HyperCard's scripting programming language)
+* 101	Icon
+* 102	IDL
+* 103	Io
+* 104	Inform
+104.1	Inform 5/6
+104.2	Inform 7
+* 105	Iptscrae
+* 106	J
+* 107	Jal
+* 108	Java
+108.1	Java byte-code
+108.2	Java byte-code Jasmin Syntax
+* 109	JavaFX Script
+* 110	JavaScript
+* 111	JCL (mainframe Job Control Language)
+* 112	Joy
+* 113	JSP
+* 114	Julia
+* 115	K
+* 116	Kotlin
+* 117	Kogut
+* 118	KPL (Kids Programming Language)
+* 119	Lasso
+* 120	Lexico Mobile (in Spanish)
+* 121	Linden Scripting Language
+* 122	Linotte
+* 123	Lisaac
+* 124	Lisp
+124.1	Common Lisp
+124.2	Scheme
+124.3	Clojure
+124.4	Emacs Lisp
+124.5	AutoLisp
+124.6	XLISP
+124.7	Arc
+124.8	Pils
+* 125	Logo
+* 126	LPC
+* 127	Lua
+127.1	LuaDEV (PSP and Wii)
+* 128	M (MUMPS)
+* 129	Macsyma, Maxima
+* 130	Maple
+* 131	Mathematica
+* 132	MATLAB
+* 133	Maude
+* 134	Max
+* 135	Maya Embedded Language
+* 136	Mesham
+* 137	M4
+* 138	mIRC Script
+138.1	aliases
+138.2	remote
+138.3	popups
+138.4	command line
+* 139	Model 204
+* 140	Modula-2
+* 141	Monkey
+* 142	MOO
+* 143	Mouse
+* 144	MPI
+* 145	M# Fictional Computer Language
+145.1	Script
+145.2	Command WI
+145.3	Command WoI
+* 146	MS-DOS batch
+* 147	MUF
+* 148	Natural
+* 149	Neko
+* 150	Nemerle
+* 151	Nim
+* 152	Oberon
+* 153	Obix
+* 154	ObjectGears
+* 155	Objective C
+155.1	Procedural C Version
+155.2	Object-Oriented C Version
+155.3	OPENSTEP/Cocoa Version
+* 156	OCaml
+* 157	occam
+* 158	OpenScript
+* 159	OPL
+* 160	OPS5
+* 161	OPS83
+* 162	Oz
+* 163	Parrot assembly language
+* 164	Parrot intermediate representation
+* 165	Pascal
+* 166	PAWN
+* 167	Perl
+167.1	As PL file
+167.2	As CGI file
+* 168	Perl 6
+* 169	PHP
+* 170	Pike
+* 171	PILOT
+* 172	PL/SQL
+* 173	PL/I
+* 174	PostScript
+* 175	PowerShell
+* 176	Processing
+* 177	Progress 4GL
+* 178	Prolog
+* 179	Pure Data
+* 180	Python
+180.1	As a script/module
+180.1.1	Python 2 and earlier
+180.1.2	Python 3
+180.1.3	Any Python version
+180.1.4	Two easter eggs
+180.2	In the REPL
+180.3	As CGI file
+180.4	Flask
+180.5	Kivy
+* 181	R
+* 182	Rebol
+* 183	Red
+* 184	Redcode
+* 185	REFAL
+* 186	Revolution
+186.1	Printed in the message box
+186.2	Shown within a dialog box
+186.3	Printed on the main window interface
+186.4	As CGI file
+* 187	REXX, ARexx, NetRexx, and Object REXX
+* 188	Ring
+* 189	RPG
+189.1	Free-Form Syntax
+189.2	Traditional Syntax
+190	RPG Code
+190.1	Message Window
+190.2	On Screen Text
+* 191	RPL
+* 192	RT Assembler
+* 193	Ruby
+* 194	Rust
+* 195	S (and R)
+* 196	S-Lang
+* 197	SAS
+* 198	Sather
+* 199	Scala
+* 200	SCAR
+* 201	Scheme
+* 202	Scratch
+* 203	sed
+* 204	Seed7
+* 205	Self
+* 206	sense script
+* 207	ShadowScript
+* 208	Simula
+* 209	Smalltalk
+* 210	SML
+* 211	SNOBOL
+* 212	Span
+* 213	SPARK
+* 214	Spin
+* 215	SPITBOL
+* 216	SPSS Syntax
+* 217	SSPL
+* 218	Standard ML
+* 219	SQL
+* 220	STARLET
+* 221	Stata
+* 222	SuperCollider
+* 223	Supernova
+* 224	Swift
+* 225	TACL
+* 226	Tcl (Tool command language)
+* 227	Template Toolkit
+* 228	Thyme
+* 229	TOM (rewriting language)
+* 230	TSQL
+* 231	TTCN-3
+* 232	Turing
+* 233	UNIX-style shell
+* 234	Vala
+* 235	Verilog
+* 236	VHDL
+* 237	Visual Basic Script
+* 238	Visual Prolog
+* 239	VRML (Virtual Reality Modeling Language)
+* 240	Web Assembly
+* 241	X#
+* 242	X3D (Extensible 3D)
+* 243	XC
+* 244	XL
+* 245	XMLmosaic
+* 246	Yorick
+* 247	Zdzich
+* 248	Graphical user interfaces (GUIs)
+248.1	ActionScript (Adobe Flash)
+248.2	AppleScript
+248.3	boo
+248.4	C#
+248.5	Clarion
+248.6	Cocoa or GNUStep (In Objective C)
+248.7	Curl
+248.8	Delphi, Kylix
+248.9	Erlang
+248.10	Euphoria
+248.11	F#
+248.12	FLTK2 (in C++)
+248.13	G (LabVIEW)
+248.14	Gtk# (in C#)
+248.15	GTK+ 2.x (in Euphoria)
+248.16	IOC/OCL (in IBM VisualAge for C++)
+248.17	Java Swing
+248.18	Java with JavaFX and FXML files
+248.19	Java with GTK (java-gnome)
+248.20	K
+248.21	Microsoft Foundation Classes (in C++)
+248.22	Adobe Flex MXML
+248.23	NSIS
+248.24	OCaml
+248.25	OPL
+248.26	Pure Data
+248.27	Python
+248.28	Qt toolkit (in C++)
+248.29	Rebol
+248.30	Red
+248.31	Robotic (MegaZeux)
+248.32	RPL
+248.33	RTML
+248.34	Ruby with WxWidgets
+248.35	Ruby with GTK+
+248.36	Ruby with Tk
+248.37	Smalltalk
+248.38	SWT with Java
+248.39	Tk
+248.40	Tcl with Tk
+248.41	Ubercode
+248.42	Uniface
+248.43	Virtools
+248.44	VBA
+248.45	Visual Basic .NET 2003/2005
+248.46	Visual Prolog (note box)
+248.47	Windows API (in C)
+248.48	Xojo
+248.49	XUL
+248.50	Maple
+* 249	Document formats
+249.1	ASCII
+* 250	Page description languages
+250.1	XHTML 1.1
+250.2	HTML
+250.2.1	Simple
+250.2.2	Informal
+250.2.3	HTML 4.01 Strict (full)
+250.2.4	HTML 4.01 Strict (smallest)
+250.2.5	HTML 5
+250.3	MediaWiki
+250.4	PDF
+250.5	PostScript
+250.6	RTF
+250.7	SVG
+250.8	TeX
+250.9	LaTeX 2ε
+250.10	ConTeXt
+* 251	Media-based scripting languages
+251.1	AviSynth
+251.2	Lingo (Macromedia Director scripting language)
+251.3	POV-Ray
+* 252	Esoteric programming languages
+252.1	0815
+252.2	Alef++
+252.3	Arrow
+252.4	Befunge
+252.5	BlooP, FlooP
+252.6	brainfuck
+252.7	Chef
+252.8	False
+252.9	HQ9+
+252.10	INTERCAL programming language
+252.11	LOLCODE
+252.12	Malbolge programming language
+252.13	P programming language
+252.14	Perl
+252.15	Rockstar
+252.16	Shakespeare
+252.17	SNUSP
+252.18	Spoon (programming language)
+252.19	Super NAND Time!!
+252.20	Taxi programming language
+252.21	T programming language
+252.22	This=That
+252.23	Unlambda programming language
+252.24	Var'aq programming language
+252.25	Whitespace
+252.26	XS programming language
+252.27	Ya programming language
+252.28	DUNNBOL1
+252.29
